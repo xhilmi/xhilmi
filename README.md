@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋. I'm Hilmi</h1>
 
+![](https://komarev.com/ghpvc/?username=hilmi-afifi&color=blue&style=flat&label=PROFILE+VIEWS)
+
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 
 - 📫 Reach me on **hello@hilmiafifi.com**
