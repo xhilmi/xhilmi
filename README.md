@@ -6,7 +6,7 @@
 ![Build: passing](https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&color=success&label=Build)
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blueviolet&label=Stars)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?clogo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
