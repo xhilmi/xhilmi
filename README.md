@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋. I'm Hilmi</h1>
+<h1 align="center">Hello there 👋 Welcome to my GitHub! I'm Hilmi Afifi, developer operations</h1>
 
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
 ![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
