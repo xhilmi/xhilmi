@@ -9,14 +9,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blueviolet&label=Stars)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
-<br><hr><br>
 
 <!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
 ## 👨🏻‍💻 &nbsp;About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 - 📫 Reach me on **hello@hilmiafifi.com**
 - 🍵 Feel free to reach me
-<br><hr><br>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 👨🏻‍💻 &nbsp;Languages and Tools:
@@ -33,7 +31,7 @@
 <a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="alibaba cloud" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="amazon web services" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
 <a href="https://cpanel.net" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
-<br><hr><br>
+<hr>
 
 <!-- <h3 align="left">OS and Softwares:</h3> -->
 ## 👨🏻‍💻 &nbsp;OS and Softwares:
@@ -46,7 +44,7 @@
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
 <a href="https://wireguard.com" target="_blank"> <img align="left" alt="wireguard" width="26px" src="https://cdn.simpleicons.org/wireguard"> </a>
 <a href="https://notion.so" target="_blank"> <img align="left" alt="notion" width="26px" src="https://cdn.simpleicons.org/notion"> </a>
-<br><hr><br>
+<hr>
 
 <!-- <h3 align="left">Reach me on:</h3> -->
 ## 👨🏻‍💻 &nbsp;Reach me on:
@@ -57,8 +55,7 @@
 <a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
 <a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>
 </p>
-<br><br>
-
+<hr>
 
 
 
