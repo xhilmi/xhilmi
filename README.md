@@ -40,7 +40,6 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a> 
 <a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
-<a href="https://whmcs.com" target="_blank"> <img align="left" alt="whmcs" width="26px" src="https://cdn.simpleicons.org/whmcs"> </a>
 <a href="https://trello.com" target="_blank"> <img align="left" alt="trello" width="26px" src="https://cdn.simpleicons.org/trello"> </a>
 <br>
 
