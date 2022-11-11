@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋. I'm Hilmi</h1>
-<h2 align="center"></h2>
 
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 
