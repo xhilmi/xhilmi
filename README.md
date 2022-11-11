@@ -10,8 +10,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
-<!-- ## 👨🏻‍💻 &nbsp;About Me: -->
+<!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
+## 👨🏻‍💻 &nbsp;About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 - 📫 Reach me on **hello@hilmiafifi.com**
 - 🍵 Feel free to reach me
@@ -34,7 +34,8 @@
 <br>
 
 
-<h3 align="left">OS and Softwares:</h3>
+<!-- <h3 align="left">OS and Softwares:</h3> -->
+## 👨🏻‍💻 &nbsp;OS and Softwares:
 <a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>
 <a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>
 <a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>
@@ -47,7 +48,8 @@
 <br>
 
 
-<h3 align="left">Reach me on:</h3>
+<!-- <h3 align="left">Reach me on:</h3> -->
+## 👨🏻‍💻 &nbsp;Reach me on:
 <p align="left">
 <a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>
 <a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>
