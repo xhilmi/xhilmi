@@ -1,6 +1,6 @@
 <h1 align="left">Hello there! 👋 I'm Hilmi, Developer Operations</h1>
 
-# Hey Everyone! I'm [Hilmi Afifi!](https://github.com/hilmi-afifi) Developer Operations
+# Hello there! 👋 I'm [Hilmi](https://github.com/hilmi-afifi), Developer Operations
 
 [Aman Kumar Dewangan a.k.a AkD!]
 
