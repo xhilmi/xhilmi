@@ -24,9 +24,11 @@
 <a href="https://www.ansible.com" target="_blank"><img align="left" alt="Ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
 <a href="https://cloud.google.com" target="_blank"> <img align="left" alt="Google" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
 <a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="Azure" width="26px" src="https://cdn.simpleicons.org/azuredevops"> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
+<a href="https://kubernetes.io" target="_blank"> <img align="left" alt="Kubernetes" width="26px" src="https://cdn.simpleicons.org/kubernetes"> </a>
+<a href="https://cpanel.net/" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
+
 <br />
 <br />
 
