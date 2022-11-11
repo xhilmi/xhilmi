@@ -2,7 +2,7 @@
 
 ![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
 [![GitHub hilmi-afifi](https://img.shields.io/github/followers/hilmi-afifi?label=follow&style=social)](https://github.com/hilmi-afifi)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![Build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
 
