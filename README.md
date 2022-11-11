@@ -16,7 +16,6 @@
 - 🍵 Feel free to reach me
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
 <a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
@@ -33,6 +32,7 @@
 <a href="https://cpanel.net" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
 <br>
 
+
 <h3 align="left">OS and Softwares:</h3>
 <a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>
 <a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>
@@ -42,6 +42,7 @@
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
 <br>
 
+
 <h3 align="left">Reach me on:</h3>
 <p align="left">
 <a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>
@@ -50,6 +51,7 @@
 <a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
 <a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>
 </p>
+
 
 
 
