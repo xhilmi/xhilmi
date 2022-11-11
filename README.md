@@ -32,7 +32,6 @@
 <a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="amazon web services" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
 <a href="https://cpanel.net" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
 <br>
-<br>
 
 <h3 align="left">OS and Softwares:</h3>
 <a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>
@@ -41,7 +40,6 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a> 
 <a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
-<br>
 <br>
 
 <h3 align="left">Reach me on:</h3>
@@ -52,7 +50,6 @@
 <a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
 <a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>
 </p>
-<br>
 
 
 
