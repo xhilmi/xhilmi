@@ -17,7 +17,8 @@
 - 🍵 Feel free to reach me
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+## 👨🏻‍💻 &nbsp;Languages and Tools:
 <a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
 <a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
 <a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
