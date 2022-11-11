@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋</h1>
-<h2 align="center">I'm Hilmi</h2>
+<h1 align="center">Hello there 👋. I'm Hilmi</h1>
+<h2 align="center"></h2>
 
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 
