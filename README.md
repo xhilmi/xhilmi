@@ -9,15 +9,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
 
-### 👨🏻‍💻 &nbsp;About Me
-
+<h3 align="left">👨🏻‍💻 About Me</h3>
 
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
-
 - 📫 Reach me on **hello@hilmiafifi.com**
+- 🍵 Feel free to reach me
 
-- 🍵 Feel free to connect with me
-<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,7 +44,7 @@
 <br>
 <br>
 
-<h3 align="left">Responding on:</h3>
+<h3 align="left">Reach me on:</h3>
 <p align="left">
 <a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>
 <a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>
