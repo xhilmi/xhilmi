@@ -10,8 +10,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
-<!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
-## 👨🏻‍💻 &nbsp;About Me:
+<h3 align="left">👨🏻‍💻 About Me</h3>
+<!-- ## 👨🏻‍💻 &nbsp;About Me: -->
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 - 📫 Reach me on **hello@hilmiafifi.com**
 - 🍵 Feel free to reach me
