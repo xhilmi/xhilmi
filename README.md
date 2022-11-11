@@ -21,13 +21,13 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
-<a href="https://www.ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
+<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
+<a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
+<a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
 <a href="https://cloud.google.com" target="_blank"> <img align="left" alt="google cloud platform" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>
 <a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="microsoft azure" width="26px" src="https://cdn.simpleicons.org/microsoftazure"> </a>
 <a href="https://kubernetes.io" target="_blank"> <img align="left" alt="kubernetes" width="26px" src="https://cdn.simpleicons.org/kubernetes"> </a>
-<a href="https://www.jenkins.io" target="_blank"> <img align="left" alt="jenkins" width="26px" src="https://cdn.simpleicons.org/jenkins"> </a>
+<a href="https://jenkins.io" target="_blank"> <img align="left" alt="jenkins" width="26px" src="https://cdn.simpleicons.org/jenkins"> </a>
 <a href="https://wordpress.org" target="_blank"> <img align="left" alt="wordpress" width="26px" src="https://cdn.simpleicons.org/wordpress"> </a>
 <a href="https://gitlab.com" target="_blank"> <img align="left" alt="gitlab" width="26px" src="https://cdn.simpleicons.org/gitlab"> </a>
 <a href="https://github.com" target="_blank"> <img align="left" alt="github" width="26px" src="https://cdn.simpleicons.org/github"> </a>
@@ -37,11 +37,13 @@
 <br>
 <br>
 
-<h3 align="left">Softwares:</h3>
+<h3 align="left">OS and Softwares:</h3>
+<a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>
+<a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>
+<a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>
+<a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
 <br>
 <br>
 
