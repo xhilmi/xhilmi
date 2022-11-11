@@ -47,11 +47,13 @@
 <br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Responding on:</h3>
 <p align="left">
 <a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>
 <a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>
 <a href="https://my.hilmiafifi.com/instagram" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/instagram"> </a>
+<a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
+<a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>
 </p>
 <br>
 
