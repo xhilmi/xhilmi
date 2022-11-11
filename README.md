@@ -18,20 +18,20 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 👨🏻‍💻 &nbsp;Languages and Tools:
-<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
-<a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
-<a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
-<a href="https://cloud.google.com" target="_blank"> <img align="left" alt="google cloud platform" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>
-<a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="microsoft azure" width="26px" src="https://cdn.simpleicons.org/microsoftazure"> </a>
-<a href="https://kubernetes.io" target="_blank"> <img align="left" alt="kubernetes" width="26px" src="https://cdn.simpleicons.org/kubernetes"> </a>
-<a href="https://jenkins.io" target="_blank"> <img align="left" alt="jenkins" width="26px" src="https://cdn.simpleicons.org/jenkins"> </a>
-<a href="https://wordpress.org" target="_blank"> <img align="left" alt="wordpress" width="26px" src="https://cdn.simpleicons.org/wordpress"> </a>
-<a href="https://gitlab.com" target="_blank"> <img align="left" alt="gitlab" width="26px" src="https://cdn.simpleicons.org/gitlab"> </a>
-<a href="https://github.com" target="_blank"> <img align="left" alt="github" width="26px" src="https://cdn.simpleicons.org/github"> </a>
-<a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="alibaba cloud" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="amazon web services" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
+<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"> </a>&nbsp;
+<a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"> </a>&nbsp;
+<a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>&nbsp;
+<a href="https://cloud.google.com" target="_blank"> <img align="left" alt="google cloud platform" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>&nbsp;
+<a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="microsoft azure" width="26px" src="https://cdn.simpleicons.org/microsoftazure"> </a>&nbsp;
+<a href="https://kubernetes.io" target="_blank"> <img align="left" alt="kubernetes" width="26px" src="https://cdn.simpleicons.org/kubernetes"> </a>&nbsp;
+<a href="https://jenkins.io" target="_blank"> <img align="left" alt="jenkins" width="26px" src="https://cdn.simpleicons.org/jenkins"> </a>&nbsp;
+<a href="https://wordpress.org" target="_blank"> <img align="left" alt="wordpress" width="26px" src="https://cdn.simpleicons.org/wordpress"> </a>&nbsp;&nbsp;
+<a href="https://gitlab.com" target="_blank"> <img align="left" alt="gitlab" width="26px" src="https://cdn.simpleicons.org/gitlab"> </a>&nbsp;
+<a href="https://github.com" target="_blank"> <img align="left" alt="github" width="26px" src="https://cdn.simpleicons.org/github"> </a>&nbsp;
+<a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="alibaba cloud" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>&nbsp;
+<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="amazon web services" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>&nbsp;
 <a href="https://cpanel.net" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>&nbsp;
-<hr>
+<br><br>
 
 <!-- <h3 align="left">OS and Softwares:</h3> -->
 ## 👨🏻‍💻 &nbsp;OS and Softwares:
@@ -44,7 +44,7 @@
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
 <a href="https://wireguard.com" target="_blank"> <img align="left" alt="wireguard" width="26px" src="https://cdn.simpleicons.org/wireguard"> </a>
 <a href="https://notion.so" target="_blank"> <img align="left" alt="notion" width="26px" src="https://cdn.simpleicons.org/notion"> </a>&nbsp;
-<hr>
+<br><br>
 
 <!-- <h3 align="left">Reach me on:</h3> -->
 ## 👨🏻‍💻 &nbsp;Reach me on:
@@ -55,7 +55,7 @@
 <a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
 <a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>&nbsp;
 </p>
-<hr>
+<br><br>
 
 
 
