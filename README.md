@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋. I'm Hilmi</h1>
 
-![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?logo=github&color=yellow)&nbsp;
-![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&logo=github&color=red&style=flat&label=Profile+Views)&nbsp;
+![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=yellow)&nbsp;
+![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
 [![GitHub hilmi-afifi](https://img.shields.io/github/followers/hilmi-afifi?label=follow&style=social)](https://github.com/hilmi-afifi)&nbsp;
-![Build: passing](https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&color=green&label=Build)
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Stars)](https://github.com/hilmi-afifi)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=green&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
+![Build: passing](https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&color=success&label=Build)
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blueviolet&label=Stars)](https://github.com/hilmi-afifi)&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?clogo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
 
