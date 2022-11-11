@@ -4,7 +4,7 @@
 
 - 📫 Reach me on **hello@hilmiafifi.com**
 
-- ⚡ Fun fact **Feel free to connect with me**
+- 🍵 Feel free to connect with me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
