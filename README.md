@@ -35,24 +35,24 @@
 
 <!-- <h3 align="left">OS and Softwares:</h3> -->
 ## 👨🏻‍💻 &nbsp;OS and Softwares:
-<a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>
-<a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>
-<a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a> 
-<a href="https://trello.com" target="_blank"> <img align="left" alt="trello" width="26px" src="https://cdn.simpleicons.org/trello"> </a>
-<a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>
-<a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
-<a href="https://wireguard.com" target="_blank"> <img align="left" alt="wireguard" width="26px" src="https://cdn.simpleicons.org/wireguard"> </a>
+<a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>&nbsp;
+<a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>&nbsp;
+<a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>&nbsp;
+<a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a>&nbsp;
+<a href="https://trello.com" target="_blank"> <img align="left" alt="trello" width="26px" src="https://cdn.simpleicons.org/trello"> </a>&nbsp;
+<a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>&nbsp;
+<a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>&nbsp;
+<a href="https://wireguard.com" target="_blank"> <img align="left" alt="wireguard" width="26px" src="https://cdn.simpleicons.org/wireguard"> </a>&nbsp;
 <a href="https://notion.so" target="_blank"> <img align="left" alt="notion" width="26px" src="https://cdn.simpleicons.org/notion"> </a>&nbsp;
 <br><br>
 
 <!-- <h3 align="left">Reach me on:</h3> -->
 ## 👨🏻‍💻 &nbsp;Reach me on:
 <p align="left">
-<a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>
-<a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>
-<a href="https://my.hilmiafifi.com/instagram" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/instagram"> </a>
-<a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>
+<a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;
+<a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>&nbsp;
+<a href="https://my.hilmiafifi.com/instagram" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/instagram"> </a>&nbsp;
+<a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>&nbsp;
 <a href="https://my.hilmiafifi.com/twitter" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>&nbsp;
 </p>
 <br><br>
