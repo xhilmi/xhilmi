@@ -40,6 +40,8 @@
 <a href="https://trello.com" target="_blank"> <img align="left" alt="trello" width="26px" src="https://cdn.simpleicons.org/trello"> </a>
 <a href="https://slack.com" target="_blank"> <img align="left" alt="slack" width="26px" src="https://cdn.simpleicons.org/slack"> </a>
 <a href="https://discord.com" target="_blank"> <img align="left" alt="discord" width="26px" src="https://cdn.simpleicons.org/discord"> </a>
+<a href="https://wireguard.com" target="_blank"> <img align="left" alt="wireguard" width="26px" src="https://cdn.simpleicons.org/wireguard"> </a>
+<a href="https://notion.so" target="_blank"> <img align="left" alt="notion" width="26px" src="https://cdn.simpleicons.org/notion"> </a>
 <br>
 
 
