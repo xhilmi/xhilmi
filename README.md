@@ -20,12 +20,12 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker" /></a>
-<a href="https://www.ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
+<a href="https://www.ansible.com" target="_blank"><img align="left" alt="Ansible" width="26px" src="https://cdn.simpleicons.org/ansible"></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python"> </a>
+<a href="https://cloud.google.com" target="_blank"> <img align="left" alt="Google" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
+<a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="Azure" width="26px" src="https://cdn.simpleicons.org/azuredevops"> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
