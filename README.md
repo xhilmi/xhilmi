@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Hilmi, Developer Operations</h1>
 
-<p align="center">
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
 ![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
 [![GitHub hilmi-afifi](https://img.shields.io/github/followers/hilmi-afifi?label=follow&style=social)](https://github.com/hilmi-afifi)&nbsp;
@@ -8,7 +7,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blueviolet&label=Stars)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
-</p>
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
