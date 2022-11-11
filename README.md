@@ -48,9 +48,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://my.hilmiafifi.com/linkedin" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilmiafifi" width="26" /></a>
-<a href="https://my.hilmiafifi.com/facebook" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hilmi.afifi.al.atsary" width="26" /></a>
-<a href="https://my.hilmiafifi.com/instagram" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilmi.afifi.al.atsari" width="26" /></a>
+<a href="https://my.hilmiafifi.com/linkedin" target="_blank"><img align="left" src="https://cdn.simpleicons.org/linkedin" alt="hilmiafifi" width="26" /></a>
+<a href="https://my.hilmiafifi.com/facebook" target="_blank"><img align="left" src="https://cdn.simpleicons.org/facebook" alt="hilmi.afifi.al.atsary" width="26" /></a>
+<a href="https://my.hilmiafifi.com/instagram" target="_blank"><img align="left" src="https://cdn.simpleicons.org/instagram" alt="hilmi.afifi.al.atsari" width="26" /></a>
 </p>
 <br />
 
