@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm [Hilmi](https://github.com/hilmi-afifi), Developer Operations
+# Hello there! 👋 I'm [Hilmi](https://github.com/hilmi-afifi), Just an Engineer
 
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
 ![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
@@ -8,8 +8,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=pink&label=Forks)](https://github.com/hilmi-afifi)&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
-
+<!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
+## 👨🏻‍💻 &nbsp;About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 - 📫 Reach me on **hello@hilmiafifi.com**
 - 🍵 Feel free to reach me
