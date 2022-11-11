@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋. I'm Hilmi</h1>
 
-![](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)
 
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**
 
