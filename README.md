@@ -4,6 +4,10 @@
 ![Profile count](https://komarev.com/ghpvc/?username=hilmi-afifi&color=red&style=flat&label=Profile+Views)&nbsp;
 [![GitHub hilmi-afifi](https://img.shields.io/github/followers/hilmi-afifi?label=follow&style=social)](https://github.com/hilmi-afifi)&nbsp;
 ![Build: passing](https://img.shields.io/badge/Build-Passing-success)
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)&nbsp;
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)&nbsp;
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
