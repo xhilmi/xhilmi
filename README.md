@@ -27,6 +27,8 @@
 <a href="https://azure.microsoft.com" target="_blank"> <img align="left" alt="Azure" width="26px" src="https://cdn.simpleicons.org/microsoftazure"> </a>
 <a href="https://kubernetes.io" target="_blank"> <img align="left" alt="Kubernetes" width="26px" src="https://cdn.simpleicons.org/kubernetes"> </a>
 <a href="https://www.jenkins.io" target="_blank"> <img align="left" alt="Jenkins" width="26px" src="https://cdn.simpleicons.org/jenkins"> </a>
+<a href="https://github.com" target="_blank"> <img align="left" alt="Github" width="26px" src="https://cdn.simpleicons.org/github"> </a>
+<a href="https://gitlab.com" target="_blank"> <img align="left" alt="Gitlab" width="26px" src="https://cdn.simpleicons.org/gitlab"> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
 <a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="Alibaba" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>
 <a href="https://cpanel.net/" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
