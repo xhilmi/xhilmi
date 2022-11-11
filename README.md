@@ -18,7 +18,6 @@
 
 - 🍵 Feel free to connect with me
 <br />
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" width="26px" src="https://cdn.simpleicons.org/docker"></a>
@@ -33,10 +32,8 @@
 <a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="Alibaba" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>
 <a href="https://cpanel.net/" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>
-
 <br />
 <br />
-
 
 <h3 align="left">Softwares:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
