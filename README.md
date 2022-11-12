@@ -10,13 +10,13 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
 <!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
-## 👨🏻‍💻 &nbsp;About Me:
+## &nbsp;About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
 - 📫 Reach me on **hello@hilmiafifi.com**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-## ⚗️ &nbsp;Languages and Tools:
+## &nbsp;Languages and Tools:
 <a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"> </a>&nbsp;
 <a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"> </a>&nbsp;
 <a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>&nbsp;
@@ -33,7 +33,7 @@
 <br><br>
 
 <!-- <h3 align="left">OS and Softwares:</h3> -->
-## 🧩 &nbsp;OS and Softwares:
+## &nbsp;OS and Softwares:
 <a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>&nbsp;
 <a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>&nbsp;
 <a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>&nbsp;
@@ -46,7 +46,7 @@
 <br><br>
 
 <!-- <h3 align="left">Reach me on:</h3> -->
-## 📲 &nbsp;Reach me on:
+## &nbsp;Reach me on:
 <p align="left">
 <a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;
 <a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>&nbsp;
