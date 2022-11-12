@@ -10,13 +10,13 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/hilmi-afifi)&nbsp;
 
 <!-- <h3 align="left">👨🏻‍💻 About Me</h3> -->
-## &nbsp;About Me:
+## About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
 - 📫 Reach me on **hello@hilmiafifi.com**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-## &nbsp;Languages and Tools:
+## Languages and Tools:
 &nbsp;<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"> </a>&nbsp;
 <a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"> </a>&nbsp;
 <a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>&nbsp;
