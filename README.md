@@ -17,7 +17,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## &nbsp;Languages and Tools:
-<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"> </a>&nbsp;
+&nbsp;<a href="https://docker.com" target="_blank"><img align="left" alt="docker" width="26px" src="https://cdn.simpleicons.org/docker"> </a>&nbsp;
 <a href="https://ansible.com" target="_blank"><img align="left" alt="ansible" width="26px" src="https://cdn.simpleicons.org/ansible"> </a>&nbsp;
 <a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>&nbsp;
 <a href="https://cloud.google.com" target="_blank"> <img align="left" alt="google cloud platform" width="26px" src="https://cdn.simpleicons.org/googlecloud"> </a>&nbsp;
@@ -34,7 +34,7 @@
 
 <!-- <h3 align="left">OS and Softwares:</h3> -->
 ## &nbsp;OS and Softwares:
-<a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>&nbsp;
+&nbsp;<a href="https://ubuntu.com" target="_blank"> <img align="left" alt="ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu"> </a>&nbsp;
 <a href="https://debian.org" target="_blank"> <img align="left" alt="debian" width="26px" src="https://cdn.simpleicons.org/debian"> </a>&nbsp;
 <a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>&nbsp;
 <a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="visual studio code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode"> </a>&nbsp;
@@ -48,7 +48,7 @@
 <!-- <h3 align="left">Reach me on:</h3> -->
 ## &nbsp;Reach me on:
 <p align="left">
-<a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;
+&nbsp;<a href="https://my.hilmiafifi.com/linkedin" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;
 <a href="https://my.hilmiafifi.com/facebook" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>&nbsp;
 <a href="https://my.hilmiafifi.com/instagram" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/instagram"> </a>&nbsp;
 <a href="https://my.hilmiafifi.com/whatsapp" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/whatsapp"> </a>&nbsp;
