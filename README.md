@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm [Hilmi](https://github.com/hilmi-afifi), Engineer
+# Hello there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Hilmi](https://github.com/hilmi-afifi), Engineer
 
 ![](https://github.com/hilmi-afifi/hilmi-afifi/blob/master/image.png)
 
