@@ -21,9 +21,9 @@
 <a href="https://ruby-lang.org/en" target="_blank"> <img align="left" alt="ruby" width="26px" src="https://cdn.simpleicons.org/ruby"> </a>&nbsp;
 <a href="https://nodejs.org" target="_blank"> <img align="left" alt="nodejs" width="26px" src="https://cdn.simpleicons.org/nodedotjs"> </a>&nbsp;
 <a href="https://laravel.com" target="_blank"> <img align="left" alt="laravel" width="26px" src="https://cdn.simpleicons.org/laravel"> </a>&nbsp;
+<a href="https://www.gnu.org/software/bash" target="_blank"> <img align="left" alt="php" width="26px" src="https://cdn.simpleicons.org/gnubash"> </a>&nbsp;
 <a href="https://go.dev" target="_blank"> <img align="left" alt="golang" width="26px" src="https://cdn.simpleicons.org/go"> </a>&nbsp;
 <a href="https://php.net" target="_blank"> <img align="left" alt="php" width="26px" src="https://cdn.simpleicons.org/php"> </a>&nbsp;
-<a href="https://www.gnu.org/software/bash" target="_blank"> <img align="left" alt="php" width="26px" src="https://cdn.simpleicons.org/gnubash"> </a>&nbsp;
 <br><br>
 
 ## Tools :
