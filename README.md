@@ -11,7 +11,7 @@
 
 ## About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
-- 📫 Reach me on **hello@hilmiafifi.com**&nbsp;
+- 📫 Reach me on **hello@hilmiafifi.com**&nbsp; **hilmiafifi12@gmail.com**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
 
 ## Languages & Frameworks :
