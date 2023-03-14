@@ -39,6 +39,7 @@
 <a href="https://alibabacloud.com" target="_blank"> <img align="left" alt="alibaba cloud" width="26px" src="https://cdn.simpleicons.org/alibabacloud"> </a>&nbsp;
 <a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="amazon web services" width="26px" src="https://cdn.simpleicons.org/amazonaws"> </a>&nbsp;
 <a href="https://cpanel.net" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/cpanel"> </a>&nbsp;
+<a href="https://www.terraform.io/" target="_blank"> <img align="left" alt="cpanel" width="26px" src="https://cdn.simpleicons.org/terraform"> </a>&nbsp;
 <br><br>
 
 ## Softwares :
