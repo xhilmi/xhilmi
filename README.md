@@ -1,6 +1,6 @@
 # Hello there! <a href="https://hilmiafifi.com" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Hilmi](https://github.com/xhilmi), Hooman
 
-![](https://github.com/xhilmi/xhilmi/blob/master/image.png)
+![](https://raw.githubusercontent.com/xhilmi/xhilmi/master/image.png)
 
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
 ![Profile count](https://komarev.com/ghpvc/?username=xhilmi&color=red&style=flat&label=Profile+Views)&nbsp;
