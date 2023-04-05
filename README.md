@@ -67,7 +67,7 @@
 <br><br>
 
 
-![alt text](https://github.com/xhilmi/portfolio/blob/master/CV-Hilmi.png?raw=true)
+![alt text](https://hilmi.vercel.app/CV-Hilmi.pdf?no_cache)
 
 
 
