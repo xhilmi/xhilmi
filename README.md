@@ -13,6 +13,7 @@
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
 - 📫 Reach me on **hello@hilmiafifi.com**&nbsp;or **hilmiafifi12@gmail.com**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
+- [![Watch the video]](https://youtu.be/M7JUi85nQRs)
 
 ## Languages & Frameworks :
 <a href="https://python.org" target="_blank"> <img align="left" alt="python" width="26px" src="https://cdn.simpleicons.org/python"> </a>&nbsp;
