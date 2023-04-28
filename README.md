@@ -2,8 +2,12 @@
 
 ![](https://raw.githubusercontent.com/xhilmi/xhilmi/master/image.png)
 
+
+<!--   my-icons -->
 <p align="center">
-https://visitor-badge.laobi.icu/badge?page_id=xhilmi.xhilmi
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xhilmi.xhilmi" alt="visitor badge"/>
+
+
 </p>
 
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
