@@ -11,7 +11,7 @@
 
 ## About Me:
 - 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
-- 📫 Reach me on **hello@hilmiafifi.com**&nbsp;or **hilmiafifi12@gmail.com**&nbsp;
+- 📫 Reach me on **hello@hilmiafifi.com**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
 - [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/M7JUi85nQRs)
 
@@ -66,9 +66,3 @@
 <a href="https://twitter.com/hilmy_afifi" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>&nbsp;
 </p>
 <br><br>
-
-
-![alt text](https://github.com/xhilmi/portfolio/blob/master/CV-Hilmi.png?raw=true)
-
-
-
