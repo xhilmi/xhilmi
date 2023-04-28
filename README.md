@@ -2,14 +2,6 @@
 
 ![](https://raw.githubusercontent.com/xhilmi/xhilmi/master/image.png)
 
-
-<!--   my-icons -->
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xhilmi.xhilmi" alt="visitor badge"/>
-
-
-</p>
-
 ![Version: 11.11.2022](https://img.shields.io/badge/Version-11.11.2022-informational?color=orange)&nbsp;
 ![Profile count](https://komarev.com/ghpvc/?username=xhilmi&color=red&style=flat&label=Profile+Views)&nbsp;
 ![Build: passing](https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&color=success&label=Build)&nbsp;
