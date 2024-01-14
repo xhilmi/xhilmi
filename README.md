@@ -10,7 +10,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?logo=github&color=blue&label=Contributors)](https://github.com/xhilmi)&nbsp;
 
 ## About Me:
-- 🔥 Talk about **Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
+- 🔥 Talk about **DevOps, Automation, Cloud, Linux, Website, cPanel, Wordpress**&nbsp;
 - 📫 Reach me on **hello@thanos.my.id**&nbsp;
 - 🍵 Feel free to reach me&nbsp;
 
@@ -57,8 +57,4 @@
 <a href="https://centos.org" target="_blank"> <img align="left" alt="centos" width="26px" src="https://cdn.simpleicons.org/centos"> </a>&nbsp;
 <br><br>
 
-## Reach me on:
-<p align="left">
-<a href="https://linkedin.com/in/xhilmi" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;  
-</p>
 <br><br>
