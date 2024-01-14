@@ -60,8 +60,5 @@
 ## Reach me on:
 <p align="left">
 <a href="https://linkedin.com/in/xhilmi" target="_blank"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.simpleicons.org/linkedin"> </a>&nbsp;  
-<a href="https://facebook.com/hilmi.afifi.al.atsari" target="_blank"> <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook"> </a>&nbsp;
-<a href="https://instagram.com/hilmi.afifi.al.atsari" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/instagram"> </a>&nbsp;
-<a href="https://twitter.com/hilmy_afifi" target="_blank"> <img align="left" alt="Instagram" width="26px" src="https://cdn.simpleicons.org/twitter"> </a>&nbsp;
 </p>
 <br><br>
