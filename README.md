@@ -8,7 +8,7 @@
 Hilmi is deeply passionate about DevOps and Cloud technologies. He had over 4 years of hands-on experience in Linux server administration across multiple big tech companies in Indonesia. His responsible in building, deploying, managing infrastructure across diverse environments, including on-premises and cloud platforms such as AWS, GCP, and Azure. He skilled in CI/CD pipelines, Kubernetes clusters, and both monolithic also microservices architectures. Currently he hold 4x Google Cloud Platform (GCP) Certifications and the Kubernetes (CKA) Certification. His main tools include is Docker, FluxCD, HelmCharts, Terraform, Ansible, Linux, Bash scripting, and other relevan Technology.
      
 - 🔭 I’m currently working on all things system, engineering, and automating around Kubernetes 
-- 💬 Ask me about Kubernetes, Docker, Cloud, Terraform, Ansible, WordPress, cPanel, Hosting, DevOps, Automation, and others relevant Technology!
+- 💬 Ask me about my main tools 👆 above also WordPress, cPanel, Hosting, and others relevant Technology!
 - 📫 How to reach me: Twitter: @xhilmiaja or email: hello@thanos.my.id
 - 😄 Home Base: https://thanos.my.id
 </p>
