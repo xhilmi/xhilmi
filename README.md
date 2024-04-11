@@ -17,12 +17,11 @@ Hilmi is deeply passionate about DevOps and Cloud technologies. He had over 4 ye
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-
-<p align="center">
-<a href="https://thanos.my.id" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.michaellevan.net-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/xhilmi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@michaellevan-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/xhilmiaja" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/thenjdevopsguy?style=social"></a>
-<a href="mailto:hello@thanos.my.id"><img alt="Email" src="https://img.shields.io/badge/Email-michael.levan@clouddev.engineering-blue?style=flat&logo=gmail"></a>
+<p align="left">
+<a href="https://thanos.my.id" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-thanos.my.id-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/xhilmi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@xhilmi-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/xhilmiaja" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/xhilmiaja?style=social"></a>
+<a href="mailto:hello@thanos.my.id"><img alt="Email" src="https://img.shields.io/badge/Email-hello@thanos.my.id-blue?style=flat&logo=gmail"></a>
 </p>
 
 
