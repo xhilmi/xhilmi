@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm [Hilmi](https://thanos.my.id)
-> Cloud Engineer and DevOps Engineer
+> Cloud Engineer | DevOps Engineer | System Administrator
 
 
 <div>
@@ -20,7 +20,8 @@ Hilmi is deeply passionate about DevOps and Cloud technologies. He had over 4 ye
 <p align="left">
 <a href="https://thanos.my.id" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-thanos.my.id-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/xhilmi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@xhilmi-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/xhilmiaja" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/xhilmiaja?style=social"></a>
+<a href="https://twitter.com/hilmithanos" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/hilmithanos?style=social"></a>
+<a href="https://instagram.com/hilmithanos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="mailto:hello@thanos.my.id"><img alt="Email" src="https://img.shields.io/badge/Email-hello@thanos.my.id-blue?style=flat&logo=gmail"></a>
 </p>
 
