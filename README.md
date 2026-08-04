@@ -1,4 +1,10 @@
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhilmi/xhilmi/master/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhilmi/xhilmi/master/light.svg">
+  <img alt="Hilmi" src="https://raw.githubusercontent.com/xhilmi/xhilmi/master/light.svg">
+</picture>
+
 ### Hi there 👋 I'm [Hilmi](https://thanos.my.id)
 > Cloud Engineer | DevOps Engineer | System Administrator
 
