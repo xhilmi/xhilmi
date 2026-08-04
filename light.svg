@@ -740,8 +740,8 @@
 <text x="512" y="377.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#CBD5E1">---------- Contact ----------</text>
 <text x="512" y="404.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#0891B2">Grid.Mail</tspan><tspan fill="#CBD5E1">......................</tspan></text>
 <text x="896.6" y="404.9" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#0F172A">hello@thanos.my.id</text>
-<text x="512" y="431.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#0891B2">Grid.Portfolio</tspan><tspan fill="#CBD5E1">.......................</tspan></text>
-<text x="896.6" y="431.9" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#0F172A">thanos.my.id</text>
+<text x="512" y="431.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#0891B2">Grid.Portfolio</tspan><tspan fill="#CBD5E1">.................</tspan></text>
+<text x="896.6" y="431.9" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#0F172A">hilmi.thanos.my.id</text>
 <text x="512" y="458.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#0891B2">Grid.LinkedIn</tspan><tspan fill="#CBD5E1">.............................</tspan></text>
 <text x="896.6" y="458.9" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#0F172A">@xhilmi</text>
 <text x="512" y="485.9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#0891B2">Grid.GitHub</tspan><tspan fill="#CBD5E1">...............................</tspan></text>
