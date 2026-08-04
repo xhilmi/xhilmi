@@ -5,18 +5,18 @@
   <img alt="Hilmi" src="https://raw.githubusercontent.com/xhilmi/xhilmi/master/light.svg">
 </picture>
 
-### Hi there 👋 I'm [Hilmi](https://thanos.my.id)
-> Cloud Engineer | DevOps Engineer | System Administrator
+### Hi there 👋 I'm [Hilmi](https://hilmi.thanos.my.id)
+> Platform Dev/Sec/Ops/Cloud Engineer · CKA · 4x Google Cloud Certified · Kubernetes Specialist
 
 
 <div>
 <p>
-Hilmi is deeply passionate about DevOps and Cloud technologies. He had over 4 years of hands-on experience in Linux server administration across multiple big tech companies in Indonesia. His responsible in building, deploying, managing infrastructure across diverse environments, including on-premises and cloud platforms such as AWS, GCP, and Azure. He skilled in CI/CD pipelines, Kubernetes clusters, and both monolithic also microservices architectures. Currently he hold 4x Google Cloud Platform (GCP) Certifications and the Kubernetes (CKA) Certification. His main tools include is Docker, FluxCD, HelmCharts, Terraform, Ansible, Linux, Bash scripting, and other relevan Technology.
+Hilmi is deeply passionate about DevOps, Cloud, and Security technologies. He has over 5 years of hands-on experience in Linux server administration across multiple big tech companies in Indonesia, and is available for remote work. His responsible in building, deploying, managing infrastructure across diverse environments, including on-premises and cloud platforms such as AWS, GCP, and Azure. He skilled in CI/CD pipelines, Kubernetes clusters, and both monolithic also microservices architectures. Currently he holds 4x Google Cloud Platform (GCP) Certifications, the Kubernetes (CKA) Certification, and Lean Six Sigma White Belt — with CKS, CKAD, and Terraform Associate in progress. His main tools include Docker, FluxCD, HelmCharts, Terraform, Ansible, Linux, Bash scripting, plus security/observability tooling like Vault, Trivy, SonarQube, Semgrep, Prometheus, and Grafana.
      
 - 🔭 I’m currently working on all things system, engineering, and automating around Kubernetes 
-- 💬 Ask me about my main tools 👆 above also WordPress, cPanel, Hosting, and others relevant Technology!
+- 💬 Ask me about my main tools 👆 above also AWS, GitLab CI, and DevSecOps practices!
 - 📫 How to reach me: Twitter: @xhilmiaja or email: hello@thanos.my.id
-- 😄 Home Base: https://thanos.my.id
+- 😄 Home Base: https://hilmi.thanos.my.id
 </p>
 </div>
 
