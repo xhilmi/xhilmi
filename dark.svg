@@ -19,19 +19,32 @@
 <circle cx="1030" cy="68" r="4" fill="#EF4444"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
 <text x="1042" y="72" font-family="ui-monospace,monospace" font-size="12" fill="#EF4444">LIVE</text>
 <rect x="512" y="80" width="598" height="1" fill="#22D3EE" opacity="0.3"/>
-<text x="512" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Subject</tspan><tspan fill="#3B4252">............................</tspan><tspan fill="#F8FAFC">Hilmi</tspan></text>
-<text x="512" y="143" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Role</tspan><tspan fill="#3B4252">...........</tspan><tspan fill="#F8FAFC">Cloud | DevOps | SysAdmin</tspan></text>
-<text x="512" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Origin</tspan><tspan fill="#3B4252">................</tspan><tspan fill="#F8FAFC">Jakarta, Indonesia</tspan></text>
-<text x="512" y="197" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Education</tspan><tspan fill="#3B4252">.............</tspan><tspan fill="#F8FAFC">B.Eng. Informatics</tspan></text>
-<text x="512" y="224" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Status</tspan><tspan fill="#3B4252">..........</tspan><tspan fill="#F8FAFC">Automating + Scaling K8s</tspan></text>
-<text x="512" y="251" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">ToolChain</tspan><tspan fill="#3B4252">..</tspan><tspan fill="#F8FAFC">Docker, FluxCD, Helm, Ansible</tspan></text>
-<text x="512" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Core.Infra</tspan><tspan fill="#3B4252">..</tspan><tspan fill="#F8FAFC">Kubernetes, Terraform, Linux</tspan></text>
-<text x="512" y="305" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Core.Database</tspan><tspan fill="#3B4252">..</tspan><tspan fill="#F8FAFC">PostgreSQL/MySQL, 20+ prod, RBAC</tspan></text>
-<text x="512" y="332" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Mail</tspan><tspan fill="#3B4252">.............</tspan><tspan fill="#F8FAFC">hello@thanos.my.id</tspan></text>
-<text x="512" y="359" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Portfolio</tspan><tspan fill="#3B4252">..............</tspan><tspan fill="#F8FAFC">thanos.my.id</tspan></text>
-<text x="512" y="386" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.LinkedIn</tspan><tspan fill="#3B4252">....................</tspan><tspan fill="#F8FAFC">@xhilmi</tspan></text>
-<text x="512" y="413" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.GitHub</tspan><tspan fill="#3B4252">......................</tspan><tspan fill="#F8FAFC">@xhilmi</tspan></text>
-<text x="512" y="440" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Twitter</tspan><tspan fill="#3B4252">..................</tspan><tspan fill="#F8FAFC">@xhilmiaja</tspan></text>
+<text x="512" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Subject</tspan><tspan fill="#3B4252">.....................................</tspan></text>
+<text x="896.6" y="116" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Hilmi</text>
+<text x="512" y="143" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Role</tspan><tspan fill="#3B4252">....................</tspan></text>
+<text x="896.6" y="143" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Cloud | DevOps | SysAdmin</text>
+<text x="512" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Origin</tspan><tspan fill="#3B4252">.........................</tspan></text>
+<text x="896.6" y="170" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Jakarta, Indonesia</text>
+<text x="512" y="197" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Education</tspan><tspan fill="#3B4252">......................</tspan></text>
+<text x="896.6" y="197" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">B.Eng. Informatics</text>
+<text x="512" y="224" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Status</tspan><tspan fill="#3B4252">...................</tspan></text>
+<text x="896.6" y="224" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Automating + Scaling K8s</text>
+<text x="512" y="251" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">ToolChain</tspan><tspan fill="#3B4252">...........</tspan></text>
+<text x="896.6" y="251" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Docker, FluxCD, Helm, Ansible</text>
+<text x="512" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Core.Infra</tspan><tspan fill="#3B4252">...........</tspan></text>
+<text x="896.6" y="278" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">Kubernetes, Terraform, Linux</text>
+<text x="512" y="305" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Core.Database</tspan><tspan fill="#3B4252">....</tspan></text>
+<text x="896.6" y="305" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">PostgreSQL/MySQL, 20+ prod, RBAC</text>
+<text x="512" y="332" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Mail</tspan><tspan fill="#3B4252">......................</tspan></text>
+<text x="896.6" y="332" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">hello@thanos.my.id</text>
+<text x="512" y="359" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Portfolio</tspan><tspan fill="#3B4252">.......................</tspan></text>
+<text x="896.6" y="359" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">thanos.my.id</text>
+<text x="512" y="386" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.LinkedIn</tspan><tspan fill="#3B4252">.............................</tspan></text>
+<text x="896.6" y="386" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">@xhilmi</text>
+<text x="512" y="413" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.GitHub</tspan><tspan fill="#3B4252">...............................</tspan></text>
+<text x="896.6" y="413" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">@xhilmi</text>
+<text x="512" y="440" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13"><tspan fill="#22D3EE">Grid.Twitter</tspan><tspan fill="#3B4252">...........................</tspan></text>
+<text x="896.6" y="440" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#F8FAFC">@xhilmiaja</text>
 <rect x="512" y="487" width="150" height="30" rx="15" fill="#10B981"/>
 <text x="587" y="507" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#04140D">@xhilmi</text>
 </svg>
